@@ -1,1 +1,2 @@
-# My-2nd-Repository
+Multi-Year Stock Data: In this Challenge, I use VBA scripting to analyze mutliple year stock market data from 2018 to 2020. By using VBA, I was able to loop through multiple Excel worksheets and calculated the yearly changes of the stocks' opening and closing prices, the stocks' yearly percent changes, and the stocks' total volume as per requested. 
+In addition, I calculated which stock had the greatest percent increase, the greatest percent decrease, and the great total volume.
