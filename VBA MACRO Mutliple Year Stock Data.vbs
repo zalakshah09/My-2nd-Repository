@@ -123,7 +123,7 @@ For Each ws In Worksheets
                 End If
                
             Next r
-            
+
             'Print greatest % increase, greatest % decrease, greatest total volume and their ticker names
             ws.Range("P2").Value = Greatest_Increase_Ticker
             ws.Range("P3").Value = Greatest_Decrease_Ticker
